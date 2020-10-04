@@ -2,7 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04c31f71-59a9-49cf-a461-29f811321ce9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../cssDemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yaf/.idea/yaf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../50x.html" beforeDir="false" afterPath="$PROJECT_DIR$/../50x.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/.idea/CodeIgniter-3.1.5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/.idea/CodeIgniter-3.1.5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/config/ModelState.php" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/config/ModelState.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/controllers/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/controllers/Admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/controllers/Upload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/controllers/Upload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/models/AdminModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/models/AdminModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/views/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/views/welcome.php" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIgniter-3.1.5/application/views/welcome.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../application/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/command.php" beforeDir="false" afterPath="$PROJECT_DIR$/../application/command.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/common.php" beforeDir="false" afterPath="$PROJECT_DIR$/../application/common.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/index/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../application/index/controller/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/tags.php" beforeDir="false" afterPath="$PROJECT_DIR$/../application/tags.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.php" beforeDir="false" afterPath="$PROJECT_DIR$/../build.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/../config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/../config/cache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/../config/console.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/cookie.php" beforeDir="false" afterPath="$PROJECT_DIR$/../config/cookie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/log.php" beforeDir="false" afterPath="$PROJECT_DIR$/../config/log.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/../config/session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/../config/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/trace.php" beforeDir="false" afterPath="$PROJECT_DIR$/../config/trace.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../extend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../extend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hello.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/day3/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/page-47.html" beforeDir="false" afterPath="$PROJECT_DIR$/day3/page-47.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../public/router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/static/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../public/static/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../route/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/../route/route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runtime/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../runtime/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../think" beforeDir="false" afterPath="$PROJECT_DIR$/../think" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendor/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../vendor/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,55 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day1/page-21.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day1/page-4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/page-23.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="13" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/page-29.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="4" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day2/page-30.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-48">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day3/page-47.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <state relative-caret-position="208">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -69,8 +77,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day3/directions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="400">
+              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day3/Elixirs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -97,8 +114,9 @@
         <option value="$PROJECT_DIR$/day2/page-23.html" />
         <option value="$PROJECT_DIR$/day2/page-29.html" />
         <option value="$PROJECT_DIR$/day2/page-30.html" />
-        <option value="$PROJECT_DIR$/day3/page-47.html" />
         <option value="$PROJECT_DIR$/day3/directions.html" />
+        <option value="$PROJECT_DIR$/day3/page-47.html" />
+        <option value="$PROJECT_DIR$/day3/Elixirs.html" />
       </list>
     </option>
   </component>
@@ -116,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,22 +144,13 @@
             <path>
               <item name="htmlDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="htmlDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htmlDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htmlDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htmlDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htmlDemo" type="462c0819:PsiDirectoryNode" />
               <item name="day3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,16 +186,18 @@
       <workItem from="1601225212134" duration="8825000" />
       <workItem from="1601391484247" duration="3689000" />
       <workItem from="1601509466840" duration="1040000" />
+      <workItem from="1601648726241" duration="2969000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15655000" />
+    <option name="totallyTimeSpent" value="18624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23247497" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2353362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -222,7 +232,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day1/page-21.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="256">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
@@ -248,27 +258,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day3/page-47.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day3/directions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day3/drinks.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/day2/page-30.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="672">
+          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/directions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/page-47.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/Elixirs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
         </state>
       </provider>
     </entry>
