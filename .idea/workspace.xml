@@ -63,20 +63,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day9/mypod/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day10/lounge.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+            <state relative-caret-position="336">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9/mypod/seattle_video_med.html">
+        <entry file="file://$PROJECT_DIR$/day10/meta.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            <state relative-caret-position="256">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day10/version/forecast.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="8" selection-end-line="24" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day10/version/newForecast.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -124,6 +142,12 @@
         <option value="$PROJECT_DIR$/day8/pencil.html" />
         <option value="$PROJECT_DIR$/day9/mypod/seattle_video_med.html" />
         <option value="$PROJECT_DIR$/day9/mypod/index.html" />
+        <option value="$PROJECT_DIR$/day10/Lounge.html" />
+        <option value="$PROJECT_DIR$/day10/lounge.html" />
+        <option value="$PROJECT_DIR$/day10/meta.html" />
+        <option value="$PROJECT_DIR$/day10/forecast.html" />
+        <option value="$PROJECT_DIR$/day10/version/forecast.html" />
+        <option value="$PROJECT_DIR$/day10/version/newForecast.html" />
       </list>
     </option>
   </component>
@@ -151,19 +175,13 @@
             <path>
               <item name="htmlDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="htmlDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="day9" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="htmlDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="htmlDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="day9" type="462c0819:PsiDirectoryNode" />
-              <item name="mypod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htmlDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htmlDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="day9" type="462c0819:PsiDirectoryNode" />
-              <item name="photos" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+              <item name="version" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,6 +198,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.php.debug.xdebug.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day10/version" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,12 +228,12 @@
       <workItem from="1601225212134" duration="8825000" />
       <workItem from="1601391484247" duration="3689000" />
       <workItem from="1601509466840" duration="1040000" />
-      <workItem from="1601648726241" duration="24292000" />
+      <workItem from="1601648726241" duration="27258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39947000" />
+    <option name="totallyTimeSpent" value="42913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-262" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -454,8 +477,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day9/mypod/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        <state relative-caret-position="208">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10/lounge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10/meta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10/version/forecast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="8" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10/version/newForecast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
